@@ -1,4 +1,4 @@
-[![MasterHead](./C:\Users\hp\Downloads\github-header-image.png)]
+![Header](./github-header-image.png)
 <h1 align="center">Hi 👋, I'm Shashank Yadav</h1>
 <h3 align="center">A passionate developer from India</h3>
 <img align="right" alt="Coding" width="400" src="https://www.simontechway.com/wp-content/uploads/2020/04/dev-gif.gif">
